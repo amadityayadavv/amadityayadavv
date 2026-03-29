@@ -92,7 +92,7 @@
   <a href="https://www.linkedin.com/in/aditya-yadav-56030737b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:soumyadipdolai630@gmail.com" target="_blank">
+  <a href="mailto:amadityayadavv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="(https://www.instagram.com/tarnishedadi?utm_source=qr&igsh=MW5kbzkwa2ZnczAyOA==)/?hl=en" target="_blank">
