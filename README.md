@@ -80,9 +80,6 @@
 
 ### 📊 GitHub Stats & Activity  
 
-<!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Soumyadip&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="170" alt="GitHub trophies"/>
-</p>
 
 ---
 
